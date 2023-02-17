@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amirjj
-- 👀 I’m interested in computer, Data and ...
-- 🌱 I’m currently learning data-analysis, back-end development & forensics concepts & tools 
+-  Hi, I’m @amirjj
+-  I’m interested in computer, Data and ...
+-  I’m currently learning data-analysis, back-end development & forensics concepts & tools 
 - 📫 amir.jamshidijam@gamil.com
 
 <!---
