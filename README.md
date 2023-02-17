@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amirjj
-- 👀 I’m interested in computer, programming, data & movies
-- 🌱 I’m currently learning data-analysis,  back-end development & forensics concepts & tools 
-- 💞️ I’m open to connect to others with same interests or new ideas 
+- 👀 I’m interested in computer, Data and ...
+- 🌱 I’m currently learning data-analysis, back-end development & forensics concepts & tools 
 - 📫 amir.jamshidijam@gamil.com
 
 <!---
